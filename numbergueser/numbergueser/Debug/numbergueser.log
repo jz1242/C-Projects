@@ -1,0 +1,58 @@
+﻿Build started 3/9/2016 9:51:41 PM.
+     1>Project "D:\C++\numbergueser\numbergueser\numbergueser.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\numbergueser.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\numbergueser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\numbergueser.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt numbergueser.cpp
+         numbergueser.cpp
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(10): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(11): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(14): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(14): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(16): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(16): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(18): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(18): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(20): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(23): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(23): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(25): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(25): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(27): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(27): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(28): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(30): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(30): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(32): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(32): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(34): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(34): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(35): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(37): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(37): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(39): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(39): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(41): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(41): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(42): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(44): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(44): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(46): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(46): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(48): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(48): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(49): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(51): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(51): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(53): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(53): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(55): error C2065: 'cout' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(55): error C2065: 'endl' : undeclared identifier
+     1>d:\c++\numbergueser\numbergueser\numbergueser.cpp(56): error C2065: 'cin' : undeclared identifier
+     1>Done Building Project "D:\C++\numbergueser\numbergueser\numbergueser.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.29

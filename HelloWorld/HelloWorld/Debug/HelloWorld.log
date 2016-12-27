@@ -1,0 +1,16 @@
+﻿Build started 3/9/2016 9:54:52 PM.
+     1>Project "D:\C++\HelloWorld\HelloWorld\HelloWorld.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\HelloWorld.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HelloWorld.cpp
+         HelloWorld.cpp
+     1>d:\c++\helloworld\helloworld\helloworld.cpp(7): error C2065: 'cin' : undeclared identifier
+     1>d:\c++\helloworld\helloworld\helloworld.cpp(7): error C2228: left of '.get' must have class/struct/union
+                 type is ''unknown-type''
+     1>d:\c++\helloworld\helloworld\helloworld.cpp(13): error C2143: syntax error : missing ';' before '}'
+     1>Done Building Project "D:\C++\HelloWorld\HelloWorld\HelloWorld.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.64

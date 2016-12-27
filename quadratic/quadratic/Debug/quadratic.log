@@ -1,0 +1,20 @@
+﻿Build started 6/6/2016 10:47:32 PM.
+     1>Project "D:\C++\quadratic\quadratic\quadratic.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\quadratic.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\quadratic.unsuccessfulbuild".
+         Touching "Debug\quadratic.lastbuildstate".
+     1>Done Building Project "D:\C++\quadratic\quadratic\quadratic.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
